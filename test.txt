@@ -1,4 +1,8 @@
-onjour tout le monde
+
+bonjour tout le mond:
+
 git a ete cree par linux Torvalds en 2005
+
+
 j'utilise git
 git est un logiciel de gestion de version decentralise
